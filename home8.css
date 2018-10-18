@@ -1,5 +1,7 @@
 .body {
     font-family: 'Montserrat', sans-serif;
+    background: url(./Group.jpg) no-repeat;
+    background-position: top;
     display: flex;
 }
 
@@ -109,7 +111,7 @@
 .box {
     width: 235px;
     height: 420px;
-    background-color: #f7f7f7;
+    
     text-align: center;
     color: #1b1b1b;
     cursor: pointer;
